@@ -1215,3 +1215,40 @@ section {
   text-align: center;
   padding-top: 30px;
 }
+
+.card{
+    border-radius: 4px;
+    background: #fff;
+    box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05);
+  transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.card:hover{
+     transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+.Bookimg
+{
+  height: 450px;
+  width: 316px;
+}
+
+.input-group
+{
+padding-left: 10px;
+padding-right: 10px;
+ width: 500px;
+}
+
+.search-btn
+{
+  color: grey;
+}
+
+.search-btn:hover
+{
+  color: black;
+}
