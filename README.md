@@ -11,7 +11,7 @@ Bookinder - Exchange books for free with like minded people.
 # Team Members are
 1. [T Sathya Narayana](https://github.com/sathya050801) 
 2. [Sowjanya R](https://github.com/sowjanya-105)
-
+3. Janani A
 
 # Motivation/Inspiration 
 
