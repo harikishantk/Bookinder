@@ -11,8 +11,8 @@ Bookinder - Exchange books for free with like minded people just within your are
 # Team Members are
 1. [T Sathya Narayana](https://github.com/sathya050801) 
 2. [Sowjanya R](https://github.com/sowjanya-105)
-3. Janani A
-
+3. [HariKishan](https://github.com/harikishantk) 
+4. Janani A 
 # Motivation/Inspiration 
 
 In the recent lockdown, I got addicted to books. When I need a new book, I either try to buy it online or share an e-book with my friends. But my friends don't have the book that I need. So I decided to get a new book, exchange the book with new people and get friends too.
@@ -30,5 +30,6 @@ https://harikishantk.github.io/Bookinder/
 
 # Hackathon
 
-This project participated in [Hackabull 2021](https://hackabull.io/), submitted in [Devpost](https://devpost.com/software/bookinder-g54dfc) and *won the Best First Time Hacker Prize*. 
+This project was developed by the team in one of the MLH hackathons, [Hackabull 2021](https://hackabull.io/) and was submitted in [Devpost](https://devpost.com/software/bookinder-g54dfc).
+*The team won the Best First Time Hacker Prize*. 
 
