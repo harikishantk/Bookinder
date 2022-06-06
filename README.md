@@ -21,6 +21,8 @@ In the recent lockdown, I got addicted to books. When I need a new book, I eithe
 # Project
 This website works as an online platform to exchange books for free with the people around your location. The user has to first register himself with the Bookinder and provide details about himself, his contact and address. Later, he can have a glimpse at the books available in his area, and if he likes one the he can request the same from the user by just clicking the request button and providing the details of his book which he would like to exchange. They can then contact each other and choose a time of their comfort to exchange their books, and also become friends!lmao.
 
+The backend of this website have been working under progress in another [repo](https://github.com/harikishantk/bookinder-backend).
+
 # Demonstration Video
 
 [![](http://img.youtube.com/vi/j862gghej_Y/0.jpg)](http://www.youtube.com/watch?v=j862gghej_Y "Bookinder - Hackabull 2021")
